@@ -1,0 +1,11 @@
+2026-01-28 21:13:46,182 Research initialized with path: data.csv
+2026-01-28 21:13:46,183 Reading file: data.csv with has_header=True
+2026-01-28 21:13:46,191 Calculations initialized
+2026-01-28 21:13:46,192 Calculating counts of heads and tails
+2026-01-28 21:13:46,193 Calculating fractions of heads and tails
+2026-01-28 21:13:46,194 Calculating counts of heads and tails
+2026-01-28 21:13:46,195 Generating 3 random predictions
+2026-01-28 21:13:46,195 Saving report to report
+2026-01-28 21:13:46,211 Starting new HTTPS connection (1): api.telegram.org:443
+2026-01-28 21:13:46,711 https://api.telegram.org:443 "POST /bot1984946069:AAGMxNbCkmFdeY6dhJvwEB9z7DzrPXsZrgY/sendMessage HTTP/1.1" 200 576
+2026-01-28 21:13:46,730 Telegram message sent successfully: The report has been successfully created
