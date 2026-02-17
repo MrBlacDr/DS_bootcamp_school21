@@ -1,0 +1,15 @@
+Mon Feb  9 14:10:40 2026    tmp.prof
+
+         867637 function calls (846660 primitive calls) in 5.731 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1302 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     88/1    0.000    0.000    5.731    5.731 {built-in method builtins.exec}
+        1    0.000    0.000    5.731    5.731 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    5.351    5.351 financial_enhanced.py:47(main)
+        1    0.000    0.000    4.485    4.485 financial_enhanced.py:8(get_html)
+      964    0.009    0.000    4.050    0.004 /usr/lib/python3.10/socket.py:691(readinto)
+
+
